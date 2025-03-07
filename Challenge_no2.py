@@ -69,19 +69,3 @@ num2 = invalid_2("num2: ")
 
 for prnt in range(num1 + 1, num2):
     print(prnt)
-    
-       
-        
-
-        
-
-
-
-
-
-
-
-
-
-    
-
